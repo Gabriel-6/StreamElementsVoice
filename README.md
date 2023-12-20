@@ -1,4 +1,4 @@
-<title>StreamElements Auto Voice Messages</title>
+StreamElements Auto Voice Messages
 
 
 <h1>StreamElements Auto Voice Messages for Viewers</h1>
