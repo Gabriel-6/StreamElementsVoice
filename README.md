@@ -1,10 +1,5 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>StreamElements Auto Voice Messages</title>
-</head>
-<body>
+<title>StreamElements Auto Voice Messages</title>
+
 
 <h1>StreamElements Auto Voice Messages for Viewers</h1>
 
