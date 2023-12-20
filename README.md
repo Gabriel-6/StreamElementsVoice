@@ -24,11 +24,6 @@
                 <li>Configure StreamElements API credentials in the configuration file.</li>
             </ul>
         </li>
-        <li><strong>Create Custom Messages:</strong>
-            <ul>
-                <li>Edit the configuration file to add your custom voice messages and configure the associated events for each message.</li>
-            </ul>
-        </li>
         <li><strong>Send Messages During the Stream:</strong>
             <ul>
                 <li>As a viewer, you can send your customized voice messages during specific events, and the bot will read them aloud during the live stream, based on what you wrote as input.</li>
